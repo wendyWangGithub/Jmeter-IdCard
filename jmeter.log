@@ -1,0 +1,45 @@
+2020-08-08 17:49:58,491 INFO o.a.j.u.JMeterUtils: Setting Locale to zh_CN
+2020-08-08 17:49:58,520 INFO o.a.j.JMeter: Loading user properties from: /Users/wangwanru/SoftWare/apache-jmeter-5.0/bin/user.properties
+2020-08-08 17:49:58,521 INFO o.a.j.JMeter: Loading system properties from: /Users/wangwanru/SoftWare/apache-jmeter-5.0/bin/system.properties
+2020-08-08 17:49:58,526 INFO o.a.j.JMeter: Copyright (c) 1998-2018 The Apache Software Foundation
+2020-08-08 17:49:58,526 INFO o.a.j.JMeter: Version 5.0 r1840935
+2020-08-08 17:49:58,526 INFO o.a.j.JMeter: java.version=1.8.0_251
+2020-08-08 17:49:58,527 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2020-08-08 17:49:58,527 INFO o.a.j.JMeter: os.name=Mac OS X
+2020-08-08 17:49:58,527 INFO o.a.j.JMeter: os.arch=x86_64
+2020-08-08 17:49:58,527 INFO o.a.j.JMeter: os.version=10.15.5
+2020-08-08 17:49:58,527 INFO o.a.j.JMeter: file.encoding=UTF-8
+2020-08-08 17:49:58,527 INFO o.a.j.JMeter: Max memory     =1073741824
+2020-08-08 17:49:58,527 INFO o.a.j.JMeter: Available Processors =12
+2020-08-08 17:49:58,530 INFO o.a.j.JMeter: Default Locale=English (EN)
+2020-08-08 17:49:58,530 INFO o.a.j.JMeter: JMeter  Locale=Chinese (China)
+2020-08-08 17:49:58,530 INFO o.a.j.JMeter: JMeterHome=/Users/wangwanru/SoftWare/apache-jmeter-5.0
+2020-08-08 17:49:58,530 INFO o.a.j.JMeter: user.dir  =/Users/wangwanru/JavaProject/jmeterProject/Jmeter-IdCard
+2020-08-08 17:49:58,531 INFO o.a.j.JMeter: PWD       =/Users/wangwanru/JavaProject/jmeterProject/Jmeter-IdCard
+2020-08-08 17:49:58,532 INFO o.a.j.JMeter: IP: 127.0.0.1 Name: MacBook-Pro.local FullName: localhost
+2020-08-08 17:50:03,604 INFO o.a.j.g.a.LookAndFeelCommand: Installing Darcula LAF
+2020-08-08 17:50:03,617 INFO o.a.j.g.a.LookAndFeelCommand: Using look and feel: com.bulenkov.darcula.DarculaLaf [Darcula]
+2020-08-08 17:50:03,617 INFO o.a.j.JMeter: Setting LAF to: com.bulenkov.darcula.DarculaLaf
+2020-08-08 17:50:03,683 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2020-08-08 17:50:04,163 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2020-08-08 17:50:04,163 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2020-08-08 17:50:05,506 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2020-08-08 17:50:05,507 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2020-08-08 17:50:05,507 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2020-08-08 17:50:05,507 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2020-08-08 17:50:05,507 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2020-08-08 17:50:05,507 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2020-08-08 17:50:05,809 INFO o.a.j.e.KeyToolUtils: keytool found at 'keytool'
+2020-08-08 17:50:05,809 INFO o.a.j.p.h.p.ProxyControl: HTTP(S) Test Script Recorder SSL Proxy will use keys that support embedded 3rd party resources in file /Users/wangwanru/SoftWare/apache-jmeter-5.0/bin/proxyserver.jks
+2020-08-08 17:50:05,911 INFO o.a.j.s.FileServer: Default base='/Users/wangwanru/JavaProject/jmeterProject/Jmeter-IdCard'
+2020-08-08 17:50:06,142 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2020-08-08 17:50:06,142 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2020-08-08 17:50:06,142 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2020-08-08 17:50:06,142 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2020-08-08 17:50:20,244 INFO o.a.j.g.a.Load: Loading file: /Users/wangwanru/Jmeter/Script/HelloSpringMVC.jmx
+2020-08-08 17:50:20,244 INFO o.a.j.s.FileServer: Set new base='/Users/wangwanru/Jmeter/Script'
+2020-08-08 17:50:20,353 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2020-08-08 17:50:20,364 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2020-08-08 17:50:20,365 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2020-08-08 17:50:20,367 INFO o.a.j.s.SaveService: Loading file: /Users/wangwanru/Jmeter/Script/HelloSpringMVC.jmx
+2020-08-08 17:50:20,565 INFO o.a.j.s.FileServer: Set new base='/Users/wangwanru/Jmeter/Script'

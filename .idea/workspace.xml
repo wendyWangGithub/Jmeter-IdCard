@@ -1,16 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="idcard" />
+    </artifacts-to-build>
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
     </expand>
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dea2d601-92c5-45b2-87e1-8fe75eab6775" name="Default Changelist" comment="" />
+    <list default="true" id="abb5cf1b-55cd-4022-a752-88d9ac41bbd3" name="Default Changelist" comment="修改项目名">
+      <change afterPath="$PROJECT_DIR$/src/main/java/addition/IdCardGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,8 +43,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1foDCSH3dnrWuig3emUjjyec73S" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fnUCVJjfvt3zwcQRITO7lzeHZk" />
   <component name="ProjectViewState">
     <option name="flattenModules" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -36,25 +59,63 @@
     <option name="showVisibilityIcons" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.testRunning" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/addition" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="dea2d601-92c5-45b2-87e1-8fe75eab6775" name="Default Changelist" comment="" />
-      <created>1596875423174</created>
+      <changelist id="abb5cf1b-55cd-4022-a752-88d9ac41bbd3" name="Default Changelist" comment="" />
+      <created>1596853222188</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1596875423174</updated>
-      <workItem from="1596875427179" duration="358000" />
-      <workItem from="1596875805474" duration="65000" />
+      <updated>1596853222188</updated>
+      <workItem from="1596853226783" duration="985000" />
+      <workItem from="1596857431178" duration="3061000" />
+      <workItem from="1596874505963" duration="21000" />
+      <workItem from="1596874601370" duration="298000" />
+      <workItem from="1596876071281" duration="2038000" />
+      <workItem from="1596878224802" duration="307000" />
+      <workItem from="1596878592597" duration="6391000" />
     </task>
+    <task id="LOCAL-00001" summary="含有jar包的2个整数的加法，jar包位置classes/artifacts/addtion_jar">
+      <created>1596872097541</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596872097541</updated>
+    </task>
+    <task id="LOCAL-00002" summary="修改项目名">
+      <created>1596874628111</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1596874628111</updated>
+    </task>
+    <task id="LOCAL-00003" summary="修改项目名">
+      <created>1596874873125</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1596874873125</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -71,5 +132,60 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="含有jar包的2个整数的加法，jar包位置classes/artifacts/addtion_jar" />
+    <MESSAGE value="修改项目名" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改项目名" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="384" y="115" key="#Project_Structure" timestamp="1596879606124">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="384" y="115" key="#Project_Structure/0.23.1792.1017@0.23.1792.1017" timestamp="1596879606124" />
+    <state x="379" y="254" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596869216312">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="379" y="254" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1792.1017@0.23.1792.1017" timestamp="1596869216312" />
+    <state x="692" y="391" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1596896246046">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="692" y="391" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1792.1017@0.23.1792.1017" timestamp="1596896246046" />
+    <state x="608" y="213" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1596857782411">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="608" y="213" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.23.1792.1017@0.23.1792.1017" timestamp="1596857782411" />
+    <state x="693" y="355" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1596896727440">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="693" y="355" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.23.1792.1017@0.23.1792.1017" timestamp="1596896727440" />
+    <state width="1750" height="273" key="GridCell.Tab.0.bottom" timestamp="1596899312152">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state width="1750" height="273" key="GridCell.Tab.0.bottom/0.23.1792.1017@0.23.1792.1017" timestamp="1596899312152" />
+    <state width="1750" height="273" key="GridCell.Tab.0.center" timestamp="1596899312152">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state width="1750" height="273" key="GridCell.Tab.0.center/0.23.1792.1017@0.23.1792.1017" timestamp="1596899312152" />
+    <state width="1750" height="273" key="GridCell.Tab.0.left" timestamp="1596899312151">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state width="1750" height="273" key="GridCell.Tab.0.left/0.23.1792.1017@0.23.1792.1017" timestamp="1596899312151" />
+    <state width="1750" height="273" key="GridCell.Tab.0.right" timestamp="1596899312152">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state width="1750" height="273" key="GridCell.Tab.0.right/0.23.1792.1017@0.23.1792.1017" timestamp="1596899312152" />
+    <state x="443" y="175" key="SettingsEditor" timestamp="1596898503685">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="443" y="175" key="SettingsEditor/0.23.1792.1017@0.23.1792.1017" timestamp="1596898503685" />
+    <state x="599" y="271" key="Vcs.Push.Dialog.v2" timestamp="1596874882672">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="599" y="271" key="Vcs.Push.Dialog.v2/0.23.1792.1017@0.23.1792.1017" timestamp="1596874882672" />
+    <state x="561" y="248" width="670" height="676" key="search.everywhere.popup" timestamp="1596878022721">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="561" y="248" width="670" height="676" key="search.everywhere.popup/0.23.1792.1017@0.23.1792.1017" timestamp="1596878022721" />
   </component>
 </project>

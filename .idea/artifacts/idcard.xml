@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="idcard">
+    <output-path>$PROJECT_DIR$/classes/artifacts/idcard</output-path>
+    <root id="archive" name="idcard.jar">
+      <element id="module-output" name="Jmeter-IdCard" />
+    </root>
+  </artifact>
+</component>
